@@ -1,0 +1,6 @@
+[user]
+	email = sam@scollins.co
+	name = Sam Collins
+	signingkey = BB2D476F1ED186B36CA6CE32233C5943C800FE30
+[commit]
+	gpgsign = true
