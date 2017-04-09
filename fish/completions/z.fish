@@ -1,0 +1,1 @@
+/home/scollins/.config/fisherman/z/completions/z.fish

@@ -1,0 +1,2 @@
+/etc/profile.d/vte.sh
+eval (thefuck --alias | tr '\n' ';')
