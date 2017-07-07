@@ -1,4 +1,4 @@
-# Postgress
+# Postgres
 
 ## Backing up and restoring
 https://www.mkyong.com/database/backup-restore-database-in-postgresql-pg_dumppg_restore/
