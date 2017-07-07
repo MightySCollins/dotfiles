@@ -10,7 +10,7 @@ pg_dump -h HOST -p POST -U USER -b -v -Fc -W -t TABEL -f"FILE.sql" DATABASE
 
 ### Restoring
 ```sql
-pg_restore -h HOST -U USER -d DATABASE -v FILE.sql
+pg_restore -j CORES(8) -h HOST -U USER -d DATABASE -v FILE.sql
 ```
 
 
